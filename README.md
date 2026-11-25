@@ -5,7 +5,7 @@
 A clean, beginner-friendly B.Tech CSE (1st Year, 1st Semester) front-end college project inspired by Cashify, built using **only HTML5, CSS3, and Vanilla JavaScript** (no frameworks, no backend, no external database).
 
 ## Live Demo
-- **Live Website (GitHub Pages):** https://yadavk0065-glitch.github.io/ReSell/
+- **Live Website:** https://moonlit-tanuki-7b7a79.netlify.app/
 
 ## Features
 - **4 Connected Pages:** Home (`index.html`), Buy Products (`buy.html`), Sell Products (`sell.html`), and About Us (`about.html`)
