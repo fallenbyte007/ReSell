@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450">
+  <rect width="600" height="450" fill="#f0f7f4" />
+  <rect x="210" y="135" width="180" height="130" rx="16" fill="#d9efe6" stroke="#00b37e" stroke-width="4" />
+  <circle cx="265" cy="182" r="16" fill="#00b37e" />
+  <path d="M226 248 L280 198 L322 234 L348 212 L374 248 Z" fill="#00b37e" opacity="0.85" />
+  <text x="300" y="310" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#1a4d3c" text-anchor="middle">ReSell Product Image</text>
+  <text x="300" y="340" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5a7a6e" text-anchor="middle">No photo uploaded by seller</text>
+</svg>
